@@ -1,0 +1,17 @@
+<style scoped>
+.I-style{
+	color: #cccccc;
+}
+.att-input{
+	background-color: #f7f7f7;
+	padding: 20rpx;
+	border-radius: 7rpx;
+}
+.classif{
+	margin: 60rpx 0 !important;
+}
+.modify-sub{
+	padding-bottom: 60rpx !important;
+}
+
+</style>
